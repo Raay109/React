@@ -20,24 +20,29 @@
 
 .nav-line-1{
 position: fixed;
-margin-top: 14.5px;
-margin-left: 0px;
+margin-top: 16.5px;
+margin-right: 10px;
 transform: 0.3s;
 width: 18px;
 height: 1px;
 background-color: aliceblue;
-z-index: 2000
+z-index: 2000;
+transition: 0.3s;
+right: 0
 }
 
 .nav-line-2{
     position: fixed;
-    margin-top: 21.5px;
-    margin-left: 0px;
+    margin-top: 23.5px;
+    margin-right: 10px;
     transform: 0.3s;
     width: 18px;
     height: 1px;
     background-color: aliceblue;
-    z-index: 2000
+    z-index: 2000;
+    transition: 0.3s;
+    right: 0;
+
 }
 
 .slidebar{
@@ -46,5 +51,5 @@ z-index: 2000
     width: 0%;
     z-index: 100;
     background-color: #171719;
-    transform: 3s;
+    transition: 0.3s;
 }
