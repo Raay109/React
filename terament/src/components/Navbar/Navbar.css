@@ -53,3 +53,14 @@ right: 0
     background-color: #171719;
     transition: 0.3s;
 }
+.titel{
+    position: fixed;
+    color: white;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.logo{
+    position: fixed;
+    border-radius: 10px;
+}

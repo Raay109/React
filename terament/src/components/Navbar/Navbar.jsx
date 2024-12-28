@@ -38,6 +38,8 @@ line2.style.transform = `rotate(${root2}deg)`;
         <div class="nav-line-1"> </div>
         <div class="nav-line-2"> </div>
     </nav>
+    <test class = "titel">Terament</test>
+    <img src="images/terament.png"></img>
 </nav>
 
     </div>
